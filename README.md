@@ -1,5 +1,3 @@
-# ai-ml-journey
-
 # AI-ML Journey 🚀
 
 Welcome to my AI & Machine Learning learning repository.
@@ -86,6 +84,29 @@ Features:
 * Remove Tasks
 
 ---
+
+# 📚 Day 2 OOPs Practice
+
+## OOPs Projects Included
+
+### 1. Build BankAccount Class
+
+A Python OOPs project using classes and objects.
+
+Features:
+
+* Deposit Money
+* Withdraw Money
+* Show Balance
+* Multiple Account Objects
+
+Concepts Used:
+
+* Classes & Objects
+* Constructors (**init**)
+* self Keyword
+* Methods
+* Encapsulation
 
 # 🛠️ Technologies Used
 

@@ -2,16 +2,22 @@
 
 Welcome to my AI & Machine Learning learning repository.
 
-This repository documents my complete journey of learning:
+This repository documents my complete journey of learning and building projects in:
 - Python Programming
 - Object Oriented Programming (OOPs)
 - NumPy
-- Data Analysis
+- Pandas & Data Analysis
 - Machine Learning
 - Deep Learning
 - AI Projects
 
-I upload my daily practice, projects, notes, and learning progress consistently.
+I consistently upload:
+- Daily coding practice
+- Notes
+- Mini projects
+- NumPy & Pandas exercises
+- ML projects
+- Learning progress
 
 ---
 
@@ -23,11 +29,20 @@ AI-ML-Journey/
 ├── Day1_Python_Basics/
 ├── Day2_OOPs/
 ├── Day3_NumPy/
-├── Mini_Projects/
-├── Practice_Questions/
-├── Notes/
-└── Future_ML_Projects/
+├── Day4_Pandas/
+
 ```
+
+---
+
+# 🛠️ Technologies & Tools
+
+- Python
+- NumPy
+- Pandas
+- Jupyter Notebook
+- VS Code
+- Git & GitHub
 
 ---
 
@@ -187,20 +202,68 @@ A Python OOP-based banking system project.
 
 ---
 
-# 🛠️ Technologies Used
+# 📚 Day 4 — Pandas Practice
 
-- Python
-- NumPy
-- Jupyter Notebook
-- VS Code
-- Git & GitHub
+## Topics Covered
+- Series vs DataFrame
+- Data Cleaning
+- Handling Missing Values
+- Indexing & Filtering
+- GroupBy Operations
+- Aggregations
+- Pivot Tables
+- Merge & Concat
+- String Operations
+- Lambda & Apply Functions
+
+---
+
+## Pandas Functions Practiced
+
+- `read_csv()`
+- `info()`
+- `describe()`
+- `groupby()`
+- `agg()`
+- `pivot_table()`
+- `merge()`
+- `concat()`
+- `apply()`
+- `fillna()`
+- `dropna()`
+
+---
+
+## Dataset Analysis Projects
+
+### 🔹 Zomato Dataset Analysis
+Performed business analysis using Pandas.
+
+#### Business Questions Solved:
+- Which city has the most restaurants?
+- Average rating by cuisine
+- Most expensive restaurants
+- Online delivery analysis
+- Top-rated cuisines
+
+---
+
+### 🔹 IPL Dataset Analysis
+Performed cricket data analysis using Pandas.
+
+#### Analysis Performed:
+- Top run scorers
+- Winning teams
+- Toss impact analysis
+- Venue statistics
+- Player performance analysis
 
 ---
 
 # 🎯 Learning Goals
 
 - Master Python Programming
-- Master NumPy & Data Analysis
+- Master NumPy & Pandas
 - Learn Data Structures & Algorithms
 - Learn Machine Learning
 - Learn Deep Learning
@@ -212,9 +275,9 @@ A Python OOP-based banking system project.
 # 🚀 Future Plans
 
 Upcoming topics and projects:
-- Pandas
 - Matplotlib
 - Seaborn
+- Exploratory Data Analysis (EDA)
 - Machine Learning Algorithms
 - NLP Projects
 - Deep Learning
@@ -229,7 +292,8 @@ Upcoming topics and projects:
 ✅ Beginner Python Projects Completed  
 ✅ OOPs Basics Completed  
 ✅ NumPy Basics Completed  
-🚀 Pandas Journey Starting Soon  
+✅ Pandas Basics Started  
+🚀 Data Analysis Journey Started  
 🚀 Machine Learning Journey Coming Soon
 
 ---
